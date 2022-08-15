@@ -1,0 +1,51 @@
+
+body
+{
+background-color:linen;
+}
+
+H2
+{
+
+text-align: center;
+
+color:purple;
+}
+  
+table, td, th 
+{  
+  border: 2px solid olive;
+}
+
+table 
+{
+  border-collapse: collapse;
+  text-align: center;
+  width: 50%;
+}
+
+.center 
+{
+  
+margin-left: auto;
+  
+margin-right: auto;
+
+}
+
+th
+
+{
+    
+color:brown;
+
+background-color:#ddd;
+font-family: Georgia;
+font-size: 120%;
+}
+
+th, td 
+{
+  padding: 15px;
+  text-align: center;
+}
